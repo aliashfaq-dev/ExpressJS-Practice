@@ -10,12 +10,12 @@ app.get("/", (req, res) => {
 
 let users = [
   {
-    username: "shariq",
-    age: 19,
+    username: "Ali",
+    age: 17,
   },
   {
-    username: "arham",
-    age: 18,
+    username: "Huzaifa",
+    age: 20,
   },
 ];
 
